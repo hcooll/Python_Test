@@ -1,3 +1,5 @@
+import time
+
 from helloworld.abstrct import *
 
 print("===========1=============")
@@ -68,10 +70,12 @@ print('\u4e2d\u6587')
 str_th_1 = "ร้อ"
 str_th_2 = "วันที่ 8 เดือน 8 วันเหมียวครองโลก มาร่วมแชร์ช่วงเวลาสนุกๆ ไปกับเรา Kitty Live"
 str_th_3 = "8 เดือน 8 วันเหมียวครองโลก แบ่งปันช่วงเวลาพิเศษ ความสดใส พูดคุย ร้องเพลงสนุกสนานไปด้วยกันกับความสามารถที่หลากหลาย ด้วยการถ่ายทอดผ่าน Kitty Live"
+str_th_4 = "สายแบ๊วห้ามพลาด! Kitty Face ฟังก์ชั่นใหม่ เพิ่มสีสันในการ Live ของคุณให้สนุกสนานมากขึ้น จัดเลย"
 print(len(str_th_1))
 print(len(str_th_1.encode('utf-8')))
 print(len(str_th_3))
 print(len(str_th_2.encode('utf-8')))
+print("str_th_4 = ", len(str_th_4.encode('utf-8')))
 
 print("===========7=============")
 
@@ -116,4 +120,14 @@ print(my_abs(-3))
 
 print("===========9=============")
 
+ticks = time.time()
 
+print("当前的时间戳是：", ticks)
+
+localTime = time.asctime(time.localtime(ticks))
+
+print("当前的时间是：", localTime)
+
+inta = -2147485647
+
+print(inta)
