@@ -4,6 +4,9 @@ import requests
 import re
 import os
 import shutil
+import sys
+
+# sys.set
 
 # url = 'https://www.crowdfunder.com'
 # params = {
@@ -36,7 +39,7 @@ import shutil
 
 url = 'http://www.jikexueyuan.com/course/?pageNum=1'
 
-with open("jike.txt", 'a') as f:
+with open("jike.txt", 'a', encoding='utf-8') as f:
     for i in range(1, 2):
         url = re.sub('[0-9][0-9]?', str(i), url)
         print(url)
@@ -44,6 +47,7 @@ with open("jike.txt", 'a') as f:
         # print(text)
         text = re.findall('class="lesson-info-h2">(.*?)</div>', rep.text, re.S)
 
-        f.write(str(text[0].encode('gbk')))
+        f.write(text[0])
         f.write('\n')
+        f.flush()
     f.close()
