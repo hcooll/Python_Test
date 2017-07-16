@@ -1,0 +1,18 @@
+<a href="//www.jikexueyuan.com/course/3753.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=3753&posColumn=3753.1">AWS云上数据库迁移</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课将向大家讲述数据库迁移到云的方法，数据库平台重构的可用选项，云上数据库迁移的最佳实践和注意事项，以及AWS数据库迁移工具（DMT）的使用方法。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>2课时
+							42分钟</em>
+					</dd>
+					<dd class="zhongji">
+						
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+					
+				</dl>
+				<em class="learn-number">1031人学习</em>
+			
