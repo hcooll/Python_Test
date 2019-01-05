@@ -1,0 +1,18 @@
+<a href="//www.jikexueyuan.com/course/4114.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4114&posColumn=4114.1">AWS äºäº§åâå¼å§ä½¿ç¨ AWS ä¸ç Microsoft SQL Server</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			AWSäºæ ¸å¿äº§åè¯¾ç¨å°ä¸ºæ¨ä»ç»äºè®¡ç®åºç¡ç¥è¯ï¼è®©æ¨æ´çæ AWS åºç¡æå¡å¦EC2ãVPCãS3ãEBSç­ï¼è®¤è¯ä¸ AWS å¹³å°ç¸å³çæ¯è¯­åæ¦å¿µä»¥åæµè§ AWS ç®¡çæ§å¶å°ï¼ä»¥ä¾¿æ ¹æ®ä¸å¡éæ±éå¯¹ IT åºç¡æ¶æåºç¡ååºææºçå³ç­å¹¶å¼å§ä½¿ç¨ AWSã 
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>4è¯¾æ¶
+							36åé</em>
+					</dd>
+					<dd class="zhongji">
+						
+						<i class="xinhao-icon"></i><em>åçº§</em>
+					</dd>
+					
+				</dl>
+				<em class="learn-number">194äººå­¦ä¹ </em>
+			
